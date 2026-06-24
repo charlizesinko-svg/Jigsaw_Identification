@@ -87,7 +87,7 @@ This analysis does **not** re-identify any actual individuals. It demonstrates o
 
 If you use this code or methodology, please cite:
 
-> Sinko, C. (2025). *You Cannot Haunt What You Cannot Find: Jigsaw Identification and the Illusion of Anonymized Data.*
+> Sinko, C. (2025). *Jigsaw Identification and the Illusion of Anonymised Data: Re-identification Risk in an Expanding Data Ecosystem.*
 
 ---
 
