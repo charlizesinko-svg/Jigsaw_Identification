@@ -1,6 +1,6 @@
 # Jigsaw Identification: Re-identification via Dataset Linkage
 
-Code for the empirical proof-of-concept in **"You Cannot Haunt What You Cannot Find: Jigsaw Identification and the Illusion of Anonymized Data"** by Charlize Sinko.
+Code for the empirical proof-of-concept in **"Jigsaw Identification and the Illusion of Anonymised Data: Re-identification Risk in an Expanding Data Ecosystem"** by Charlize Sinko.
 
 This analysis demonstrates how joining two individually anonymized public datasets increases record uniqueness, reducing effective k-anonymity guarantees.
 
