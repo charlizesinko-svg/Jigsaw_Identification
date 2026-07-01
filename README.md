@@ -1,6 +1,6 @@
 # Jigsaw Identification: Re-identification via Dataset Linkage
 
-Code for the empirical proof-of-concept in **"Jigsaw Identification and the Illusion of Anonymised Data: Re-identification Risk in an Expanding Data Ecosystem"** by Charlize Sinko.
+Code for the empirical proof-of-concept in  by Charlize Sinko.
 
 This analysis demonstrates how joining two individually anonymized public datasets increases record uniqueness, reducing effective k-anonymity guarantees.
 
@@ -80,14 +80,6 @@ The analysis proceeds in three steps:
 ## Important Note
 
 This analysis does **not** re-identify any actual individuals. It demonstrates only that the structural conditions for re-identification (record uniqueness) are created by the join operation itself. The purpose is to illustrate a policy-relevant vulnerability in static anonymization standards, not to harm anyone's privacy.
-
----
-
-## Citation
-
-If you use this code or methodology, please cite:
-
-> Sinko, C. (2025). *Jigsaw Identification and the Illusion of Anonymised Data: Re-identification Risk in an Expanding Data Ecosystem.*
 
 ---
 
